@@ -156,12 +156,4 @@ This way, users stay in control but get gentle nudges to stay mindful.
 
 ---
 
-## 🤝 Team & Tools
-
-- Designed in Figma using 4-column stretch grid
-- Fonts and colors based on YouTube’s brand guidelines
-- Collaborated with [Your Name] and [Other Teammates, if any]
-
----
-
 Thanks for checking this out! ✨
