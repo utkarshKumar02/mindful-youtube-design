@@ -13,7 +13,7 @@ The challenge was: do all this **only through UI/UX design**, no backend logic o
 
 ---
 
-## 🛠️ What We Designed
+## 🛠️ What I Designed
 
 Here’s a quick overview of what’s included in this design:
 
