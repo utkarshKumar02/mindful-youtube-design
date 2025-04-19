@@ -53,7 +53,7 @@ When the user taps the floating session card, a smooth bottom sheet appears:
 - https://www.figma.com/design/I4UaZI0sNnSDMQij8zUQES/Untitled?node-id=21-1895&t=EIAIy2MxMHXtT7hI-1
   
 - 📁 **/prototype/** – Interactive Figma prototype (link below)
-- https://www.figma.com/proto/I4UaZI0sNnSDMQij8zUQES/Untitled?page-id=21%3A1895&node-id=21-2505&p=f&viewport=138%2C-532%2C0.25&t=cPzrEgwJicBQMONL-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=21%3A2505&show-proto-sidebar=1
+- https://www.figma.com/proto/I4UaZI0sNnSDMQij8zUQES/Design-Forge?page-id=21%3A1895&node-id=62-1783&viewport=-535%2C194%2C0.18&t=uMnEZvmfX7ZsGir7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=62%3A1618&show-proto-sidebar=1
 - 📄 **README.md** – You're reading it :)
 
 ---
@@ -61,7 +61,7 @@ When the user taps the floating session card, a smooth bottom sheet appears:
 ## 🔗 Prototype Link
 
 You can interact with the final design here:  
-https://www.figma.com/proto/I4UaZI0sNnSDMQij8zUQES/Untitled?page-id=0%3A1&node-id=21-244&viewport=-5623%2C-4912%2C0.88&t=GmjOgydxlfOnfR7a-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=21%3A244&show-proto-sidebar=1
+https://www.figma.com/proto/I4UaZI0sNnSDMQij8zUQES/Design-Forge?page-id=21%3A1895&node-id=62-1783&viewport=-535%2C194%2C0.18&t=uMnEZvmfX7ZsGir7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=62%3A1618&show-proto-sidebar=1
 
 ---
 
